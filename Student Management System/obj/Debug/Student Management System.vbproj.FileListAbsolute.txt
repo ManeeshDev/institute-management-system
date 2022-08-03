@@ -1,0 +1,75 @@
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.Cache
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.Cache
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmCourse.resources
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmModule.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmCourse.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmModule.resources
+D:\Manish\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStDt.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStDt.resources
+F:\New W\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+F:\New W\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+F:\New W\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+F:\New W\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+F:\New W\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+F:\New W\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+F:\New W\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+F:\New W\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmCourse.resources
+F:\New W\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmModule.resources
+F:\New W\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStDt.resources
+F:\New W\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+F:\New W\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.Cache
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student.mdf
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\bin\Debug\Student_log.ldf
+D:\MP_ Works\VB @VTA_DIP_2019\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmViewTables.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmCourse.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmModule.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmStDt.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student_Management_System.frmViewTables.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student Management System.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student Management System.exe
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student Management System.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\bin\Debug\Student Management System.xml
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student_Management_System.frmCourse.resources
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student_Management_System.frmModule.resources
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student_Management_System.frmStDt.resources
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student_Management_System.frmViewTables.resources
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.exe
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.xml
+D:\MP_ Works\My Dev Projects\Vb .net\institute-management-system - Copy\Student Management System\obj\Debug\Student Management System.pdb
